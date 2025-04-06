@@ -13,17 +13,16 @@ Ready to bring your ideas to life? Let's make it happen!//
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.svg" alt="Blender" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html5-icon.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css3-icon.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-4-icon.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.svg" alt="Nuxt.js" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sequelize-icon.svg" alt="Sequelize" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -35,11 +34,11 @@ Ready to bring your ideas to life? Let's make it happen!//
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://linkedin.com/in/joniffer-mandac-53277a284"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-icon.svg" width="30" /></a>
-  <a href="https://facebook.com/joniffer.mandac"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-icon.svg" width="30" /></a>
-  <a href="https://instagram.com/jopeeeeeeeeeel"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-icon.svg" width="30" /></a>
+  <a href="https://linkedin.com/in/joniffer-mandac-53277a284"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" width="30" /></a>
+  <a href="https://facebook.com/joniffer.mandac"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.svg" width="30" /></a>
+  <a href="https://instagram.com/jopeeeeeeeeeel"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.svg" width="30" /></a>
   <a href="mailto:your.email@example.com"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.svg" width="30" /></a>
-  <a href="https://tiktok.com/@senpaijofiru"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-icon.svg" width="30" /></a>
+  <a href="https://tiktok.com/@senpaijofiru"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-square-color-icon.svg" width="30" /></a>
 </p>
 
 
