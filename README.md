@@ -6,38 +6,41 @@ Where designs come alive in code.
 //I'm on a mission to turn your visions into digital reality.  
 Ready to bring your ideas to life? Let's make it happen!//
 
+
 ## 💻 Tech Stack
 
 <p align="left" style="color: inherit;">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/blender.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/figma.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/canva.svg" alt="Canva" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/vuejs.svg" alt="Vue.js" width="40" height="40"/>  <!-- Using FontAwesome Vue.js icon -->
-  <img src="https://cdn.jsdelivr.net/npm/font-awesome@5.15.4/svgs/brands/node-js.svg" alt="Node.js" width="40" height="40"/>  <!-- Using FontAwesome Node.js icon -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/express.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sequelize.svg" alt="Sequelize" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/npm.svg" alt="npm" width="40" height="40"/>
+  <span class="iconify" data-icon="logos:blender" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:figma" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:canva" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:html-5" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:css-3" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:javascript" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:bootstrap" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:tailwindcss-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:vue" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:nuxt-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:typescript-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:nodejs-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:express" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:sequelize" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:mongodb-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:mysql-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:postgresql-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:git" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:github-icon" width="40" height="40"></span>
+  <span class="iconify" data-icon="logos:npm-icon" width="40" height="40"></span>
 </p>
 
 ## 🌐 Socials
 
 <p align="left" style="color: inherit;">
-  <a href="https://linkedin.com/in/joniffer-mandac-53277a284"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="30" /></a>
-  <a href="https://facebook.com/joniffer.mandac"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/facebook.svg" width="30" /></a>
-  <a href="https://instagram.com/jopeeeeeeeeeel"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="30" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="30" /></a>
-  <a href="https://tiktok.com/@senpaijofiru"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tiktok.svg" width="30" /></a>
+  <a href="https://linkedin.com/in/joniffer-mandac-53277a284"><span class="iconify" data-icon="logos:linkedin-icon" width="30"></span></a>
+  <a href="https://facebook.com/joniffer.mandac"><span class="iconify" data-icon="logos:facebook-icon" width="30"></span></a>
+  <a href="https://instagram.com/jopeeeeeeeeeel"><span class="iconify" data-icon="logos:instagram-icon" width="30"></span></a>
+  <a href="mailto:your.email@example.com"><span class="iconify" data-icon="logos:gmail-icon" width="30"></span></a>
+  <a href="https://tiktok.com/@senpaijofiru"><span class="iconify" data-icon="logos:tiktok-icon" width="30"></span></a>
 </p>
+
 
 📩 Always open to opportunities, collaborations, and turning cool ideas into reality.
