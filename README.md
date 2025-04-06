@@ -8,53 +8,49 @@ Ready to bring your ideas to life? Let's make it happen!
 
 ---
 
-## 🌐 Socials
+## 💻 Tech Stack
 
-[![Facebook](https://img.icons8.com/ios-filled/24/1877F2/facebook--v1.png)](https://facebook.com/joniffer.mandac)
-[![Instagram](https://img.icons8.com/ios-filled/24/E4405F/instagram-new--v1.png)](https://instagram.com/jopeeeeeeeeeel)
-[![LinkedIn](https://img.icons8.com/ios-filled/24/0077B5/linkedin.png)](https://linkedin.com/in/joniffer-mandac-53277a284)
-[![TikTok](https://img.icons8.com/ios-filled/24/000000/tiktok--v1.png)](https://tiktok.com/@senpaijofiru)
+<p align="left">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html5-icon.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css3-icon.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vue-js-icon.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nuxt-js-icon.svg" alt="Nuxt.js" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-icon.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/node-js-icon.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/express-js-icon.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sequelize-icon.svg" alt="Sequelize" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/npm-icon.svg" alt="npm" width="40" height="40"/>
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🌐 Socials
 
-### Design & Tools
-
-- ![Blender](https://img.icons8.com/color/24/blender-3d.png) **Blender**
-- ![Figma](https://img.icons8.com/color/24/figma--v1.png) **Figma**
-- ![Canva](https://img.icons8.com/color/24/canva-logo.png) **Canva**
-
-### Frontend Development
-
-- ![HTML5](https://img.icons8.com/color/24/html-5--v1.png) **HTML5**
-- ![CSS3](https://img.icons8.com/color/24/css3.png) **CSS3**
-- ![JavaScript](https://img.icons8.com/color/24/javascript--v1.png) **JavaScript**
-- ![TypeScript](https://img.icons8.com/color/24/typescript.png) **TypeScript**
-- ![Vue.js](https://img.icons8.com/color/24/vue-js.png) **Vue.js**
-- ![Nuxt.js](https://img.icons8.com/color/24/nuxt-js.png) **Nuxt.js**
-- ![Bootstrap](https://img.icons8.com/color/24/bootstrap.png) **Bootstrap**
-- ![Tailwind CSS](https://img.icons8.com/color/24/tailwindcss.png) **Tailwind CSS**
-- ![Ant Design](https://img.icons8.com/color/24/ant-design.png) **Ant Design**
-- ![Vuesax](https://img.icons8.com/color/24/vuesax.png) **Vuesax**
-
-### Backend Development
-
-- ![Node.js](https://img.icons8.com/color/24/nodejs.png) **Node.js**
-- ![Express.js](https://img.icons8.com/ios-filled/24/000000/express-js.png) **Express.js**
-- ![Sequelize](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-sequelize-an-orm-that-supports-postgresql-mysql-sqlite-and-more-logo-filled-tal-revivo.png) **Sequelize**
-
-### Databases
-
-- ![MongoDB](https://img.icons8.com/color/24/mongodb.png) **MongoDB**
-- ![MySQL](https://img.icons8.com/ios-filled/24/000000/mysql-logo.png) **MySQL**
-- ![PostgreSQL](https://img.icons8.com/color/24/postgreesql.png) **PostgreSQL**
-
-### Version Control & Package Managers
-
-- ![Git](https://img.icons8.com/color/24/git.png) **Git**
-- ![GitHub](https://img.icons8.com/material-rounded/24/000000/github.png) **GitHub**
-- ![npm](https://img.icons8.com/color/24/npm.png) **npm**
+<p align="left">
+  <a href="https://facebook.com/joniffer.mandac" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-icon.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/jopeeeeeeeeeel" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-icon.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://linkedin.com/in/joniffer-mandac-53277a284" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://tiktok.com/@senpaijofiru" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-icon.svg" alt="TikTok" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
